@@ -1,0 +1,6 @@
+C:\Users\asingla\source\repos\tictactoerest\tictactoerest.Core\obj\Debug\tictactoerest.Core.csprojResolveAssemblyReference.cache
+C:\Users\asingla\source\repos\tictactoerest\tictactoerest.Core\obj\Debug\tictactoerest.Core.csproj.CoreCompileInputs.cache
+C:\Users\asingla\source\repos\tictactoerest\tictactoerest.Core\bin\Debug\tictactoerest.Core.dll
+C:\Users\asingla\source\repos\tictactoerest\tictactoerest.Core\bin\Debug\tictactoerest.Core.pdb
+C:\Users\asingla\source\repos\tictactoerest\tictactoerest.Core\obj\Debug\tictactoerest.Core.dll
+C:\Users\asingla\source\repos\tictactoerest\tictactoerest.Core\obj\Debug\tictactoerest.Core.pdb
